@@ -153,5 +153,5 @@ If FFmpeg cannot be found, the application displays an error message.
 Clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/RavendraDotJava/ffmpeg-pro-tool.git
-cd ffmpeg-pro-tool
+git clone https://github.com/RavendraDotJava/media-Converter-using-java.git
+cd media-Converter-using-java
